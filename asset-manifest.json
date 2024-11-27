@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JuanMRuaroZepeda/mipaginareact.git/static/css/main.665e91fd.css",
+    "main.js": "/JuanMRuaroZepeda/mipaginareact.git/static/js/main.3db748e6.js",
+    "static/media/Image.png": "/JuanMRuaroZepeda/mipaginareact.git/static/media/Image.c46e75e54001943470be.png",
+    "index.html": "/JuanMRuaroZepeda/mipaginareact.git/index.html",
+    "main.665e91fd.css.map": "/JuanMRuaroZepeda/mipaginareact.git/static/css/main.665e91fd.css.map",
+    "main.3db748e6.js.map": "/JuanMRuaroZepeda/mipaginareact.git/static/js/main.3db748e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.665e91fd.css",
+    "static/js/main.3db748e6.js"
+  ]
+}
